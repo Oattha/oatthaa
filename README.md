@@ -6,7 +6,7 @@ I'm **Oatthaphon Khamphon**(Prai)
 
 ### 🎓 About Me
 - 📚 Faculty of Liberal Arts & Science, Kasetsart University — Information Technology  
-- 🎯 Passionate about coding, UI/UX design, and full-stack development  
+- 🎯 Passionate about coding, backend development, and IoT, and full-stack development  
 - 🚀 Always eager to learn new technologies and improve my skills  
 
 ---
