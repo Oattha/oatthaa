@@ -61,7 +61,7 @@ UX/UI · Front-End · Back-End · Full-Stack Junior Developer position
 - 🌐 [Portfolio Website](https://oatthaa-portfolio.netlify.app/)  
 - 📂 [Google Drive (Resume & Certificates)](https://drive.google.com/drive/folders/19QbmzNR_WdYMxxZ30qgCu4GEdU_vgpFn?usp=drive_link)  
 - 📧 Email: facup877@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/Oatthaphon Khamphon]([www.linkedin.com/in/oatthaphonkp/](https://www.linkedin.com/in/oatthaphonkp))  
+- 💼 LinkedIn: [linkedin.com/in/Oatthaphon Khamphon](https://www.linkedin.com/in/oatthaphonkp)  
 
 ---
 
