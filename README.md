@@ -4,6 +4,14 @@ I'm **Oatthaphon Khamphon**(Prai)
 
 ---
 
+## 📫 Contact
+- 🌐 [Portfolio Website](https://oatthaa-portfolio.netlify.app/)  
+- 📂 [Google Drive (Resume & Certificates)](https://drive.google.com/drive/folders/19QbmzNR_WdYMxxZ30qgCu4GEdU_vgpFn?usp=drive_link)  
+- 📧 Email: facup877@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/Oatthaphon Khamphon](https://www.linkedin.com/in/oatthaphonkp)  
+
+---
+
 ### 🎓 About Me
 - 📚 Faculty of Liberal Arts & Science, Kasetsart University — Information Technology  
 - 🎯 Passionate about coding, backend development, and IoT, and full-stack development  
@@ -55,15 +63,6 @@ UX/UI · Front-End · Back-End · Full-Stack Junior Developer position
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
----
-
-## 📫 Contact
-- 🌐 [Portfolio Website](https://oatthaa-portfolio.netlify.app/)  
-- 📂 [Google Drive (Resume & Certificates)](https://drive.google.com/drive/folders/19QbmzNR_WdYMxxZ30qgCu4GEdU_vgpFn?usp=drive_link)  
-- 📧 Email: facup877@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/Oatthaphon Khamphon](https://www.linkedin.com/in/oatthaphonkp)  
-
----
 
 ## 📱 Follow Me
 <p align="left">
